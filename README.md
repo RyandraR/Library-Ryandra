@@ -1,6 +1,6 @@
-# Ryandra Library
+# Ryandra-wph021 Library
 
-[Live Demo](https://willy-library.vercel.app) • [GitHub](https://github.com/willyindra50/willy-library)
+[Live Demo](library-ryandra-wph021.vercel.app) • [GitHub](https://github.com/RyandraR/Library-Ryandra)
 
 A modern digital library web app where users can browse, borrow, and review books, as well as manage their profile and loan activities.
 
@@ -33,8 +33,8 @@ A modern digital library web app where users can browse, borrow, and review book
 Clone the repository:
 
 ```bash
-git clone https://github.com/willyindra50/willy-library.git
-cd willy-library
+git clone https://github.com/RyandraR/Library-Ryandra
+cd ryandra-library
 npm install
 npm run dev
 ```
